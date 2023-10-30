@@ -1,1 +1,2 @@
 # hangman
+**Description:**The aim of the Hangman game in Python is to create an entertaining word-guessing game where one player(the computer) selects a random word, and the other player (the human player) tries to guess the word letter by letter. The game is named "Hangman" because for each incorrect guess, a part of a stick figure representing a "hanging man" is drawn, eventually resulting in a complete drawing of a "hanged man" if the player runs out of guesses.
